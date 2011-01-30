@@ -2,7 +2,7 @@
 /**
  * @package   phing.tasks.ext
  * @copyright Copyright (c) 2011 Mike Rötgers (http://roetgers.org)
- * @license   http://roetgers.org/license/new-bsd New BSD License
+ * @license   http://license.roetgers.org/simplified-bsd Simplified BSD License
  */
 
 require_once 'phing/Task.php';
